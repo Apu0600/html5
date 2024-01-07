@@ -1,0 +1,15 @@
+.audio{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+nav>ul>li{
+    display: inline;
+    margin-right: 20px;
+}
+footer{
+    text-align: center;
+}
+#num{
+    display: inline;
+}
